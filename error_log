@@ -1,0 +1,4 @@
+[09-May-2019 01:35:40 UTC] PHP Fatal error:  Call to a member function model() on null in /home/mykiscertico/public_html/application/controllers/Login.php on line 7
+[09-May-2019 02:13:11 UTC] PHP Fatal error:  Call to a member function model() on null in /home/mykiscertico/public_html/application/controllers/Login.php on line 7
+[09-May-2019 02:13:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/mykiscertico/public_html/application/controllers/Login.php on line 11
+[13-May-2019 03:58:46 UTC] PHP Fatal error:  Call to a member function model() on null in /home/mykiscertico/public_html/application/controllers/Profil.php on line 8
